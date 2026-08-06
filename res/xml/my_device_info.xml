@@ -96,6 +96,14 @@
                     android:targetClass="com.android.phone.settings.RadioInfo" />
          </Preference>
 
+        <!-- Maintainer -->
+        <Preference
+            android:key="maintainer"
+            android:order="10"
+            android:title="@string/maintainer"
+            android:summary="@string/device_info_default"
+            settings:enableCopying="true"/>
+
 
         <!-- SIM status -->
         <Preference
