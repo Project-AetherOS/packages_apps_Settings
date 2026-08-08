@@ -3395,6 +3395,9 @@
     <!-- About phone screen, status item label  [CHAR LIMIT=40] -->
     <string name="firmware_version">Android version</string>
     <string name="maintainer">Maintainer</string>
+    <string name="aether_build_type">Build type</string>
+    <string name="aether_build_type_official">Official (%1$s)</string>
+    <string name="aether_build_type_unofficial">Unofficial</string>
     <!-- About phone screen, status item label  [CHAR LIMIT=60] -->
     <string name="security_patch">Android security update</string>
     <!-- About phone screen, status item label  [CHAR LIMIT=40] -->

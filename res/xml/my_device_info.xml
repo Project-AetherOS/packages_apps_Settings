@@ -104,6 +104,14 @@
             android:summary="@string/device_info_default"
             settings:enableCopying="true"/>
 
+        <!-- Build type -->
+        <Preference
+            android:key="aether_build_type"
+            android:order="11"
+            android:title="@string/aether_build_type"
+            android:summary="@string/device_info_default"
+            settings:enableCopying="true"/>
+
 
         <!-- SIM status -->
         <Preference
